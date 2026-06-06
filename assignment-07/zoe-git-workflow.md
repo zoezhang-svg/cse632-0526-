@@ -40,7 +40,7 @@ Changes to be committed:
 	new file:   assignment-07/zoe-git-workflow.md
 
 ## Pull Request URL
-[Temporary Placeholder]
+Pending creation on GitHub
 
 ## Latest Commit Hash
 [Temporary Placeholder]
