@@ -1,1 +1,1 @@
-# CSE632 Assignment 07 Git Practice
+# CSE632 Assignment 07 Conflict A
