@@ -40,8 +40,7 @@ Changes to be committed:
 	new file:   assignment-07/zoe-git-workflow.md
 
 ## Pull Request URL
-Pending creation on GitHub
-
+https://github.com/zoezhang-svg/cse632-0526-/pull/1
 ## Latest Commit Hash
 [Temporary Placeholder]
 
